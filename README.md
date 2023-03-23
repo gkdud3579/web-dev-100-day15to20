@@ -1,1 +1,1 @@
-# web-dev-100-travel-page-
+# "The 100-day journey of a web developer: Understanding HTML & CSS layout and positioning."
